@@ -14,7 +14,7 @@
         <AssemblyName>Soenneker.Extensions.Spans</AssemblyName>
         <PackageId>Soenneker.Extensions.Spans</PackageId>
         <PackageTags>extensions spans extension span t spanextension csharp dotnet c# .net</PackageTags>
-        <Copyright>Copyright © 2025 Jake Soenneker</Copyright>
+        <Copyright>Copyright © 2025-2026 Jake Soenneker</Copyright>
         <Authors>Jake Soenneker</Authors>
         <Company>https://soenneker.com</Company>
         <GenerateDocumentationFile>true</GenerateDocumentationFile>
