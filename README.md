@@ -4,7 +4,7 @@
 [![](https://img.shields.io/github/actions/workflow/status/soenneker/soenneker.extensions.spans/codeql.yml?label=CodeQL&style=for-the-badge)](https://github.com/soenneker/soenneker.extensions.spans/actions/workflows/codeql.yml)
 
 # ![](https://user-images.githubusercontent.com/4441470/224455560-91ed3ee7-f510-4041-a8d2-3fc093025112.png) Soenneker.Extensions.Spans
-A collection of helpful Span extension methods.
+Reserved package for general `Span<T>` extensions.
 
 ## Installation
 
@@ -12,10 +12,6 @@ A collection of helpful Span extension methods.
 dotnet add package Soenneker.Extensions.Spans
 ```
 
-## Quick start
+## Current API
 
-```csharp
-using Soenneker.Extensions.Spans;
-```
-
-Import the namespace, then call the extension methods directly on the matching value.
+This package does not currently expose any extension methods. It contains only the empty `SpanExtension` type. The type-specific span helpers live in separate packages such as `Soenneker.Extensions.Spans.Bytes` and `Soenneker.Extensions.Spans.Readonly.Chars`.
