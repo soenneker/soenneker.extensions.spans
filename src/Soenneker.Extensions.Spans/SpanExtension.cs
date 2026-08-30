@@ -1,7 +1,7 @@
 ﻿namespace Soenneker.Extensions.Spans;
 
 /// <summary>
-/// A collection of helpful Span extension methods
+/// Provides the namespace anchor for type-specific <see cref="System.Span{T}"/> extension packages.
 /// </summary>
 public static class SpanExtension
 {
